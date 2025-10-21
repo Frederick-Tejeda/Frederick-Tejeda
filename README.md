@@ -4,14 +4,20 @@ Soy un **Desarrollador Full-Stack** con experiencia en la creación de aplicacio
 
 Mi viaje en el mundo del desarrollo me ha llevado a trabajar con tecnologías como:
 
-* **Frontend:** React, Next.js y Astro
-* **Backend:** Node.js, Python (Django/Flask) y .NET/C#
-* **Mobile:** React Native y Flutter
-* **Bases de Datos:** MongoDB, PostgreSQL, MySQL y SQL Server
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Astro |
+| **Backend** | Node.js, Python (Django/Flask), .NET/C# |
+| **Mobile** | React Native, Flutter |
+| **Bases de Datos** | MongoDB, PostgreSQL, MySQL, SQL Server |
 
-Además de mi experiencia práctica en desarrollo, me encuentro profundamente entusiasmado con el **Cloud Computing**. Estoy explorando activamente plataformas como AWS y Azure, y visualizo un futuro donde mis habilidades de desarrollo se fusionen con la escalabilidad y eficiencia de la nube.
+---
 
-Actualmente, estoy enfocado en DevOps, explorando herramientas como Docker y Kubernetes para automatizar y optimizar mis proyectos al Cloud.
+### ⚙️ Full-Stack + DevOps
+
+Además de mi experiencia práctica en desarrollo, me encuentro profundamente entusiasmado con el **DevOps**. Estoy explorando activamente herramientas y metodologías para automatizar y optimizar la entrega de software, visualizando un futuro donde mis habilidades de desarrollo se fusionen con la eficiencia de los flujos de integración y despliegue continuo (CI/CD).
+
+Actualmente, estoy enfocado en el despliegue y la orquestación, explorando herramientas como **Docker** y **Kubernetes** para automatizar y optimizar mis proyectos.
 
 ---
 
@@ -19,21 +25,26 @@ Actualmente, estoy enfocado en DevOps, explorando herramientas como Docker y Kub
 
 Como profesional en constante evolución, siempre estoy buscando nuevas formas de expandir mi conjunto de habilidades. Actualmente estoy aprendiendo/explorando:
 
-* Entendiendo los principios de la infraestructura como código (IaC) con herramientas como Terraform o CloudFormation.
-* Explorando arquitecturas serverless y sus beneficios en la escalabilidad de aplicaciones.
-* Aprendiendo sobre la gestión y orquestación de contenedores con Docker y Kubernetes.
-* Investigando sobre estrategias de seguridad en la nube y mejores prácticas.
+* Entendiendo los principios de la **Infraestructura como Código (IaC)** con herramientas como **Terraform** o **CloudFormation**.
+* Explorando **estrategias avanzadas de CI/CD** para automatizar y agilizar el despliegue de aplicaciones.
+* Aprendiendo sobre la gestión y orquestación de contenedores con **Docker** y **Kubernetes**.
+* Investigando sobre **monitoreo, logging y observabilidad** en entornos de producción.
+
+---
 
 #### 🛠️ Herramientas y Tecnologías con las que he trabajado
 
 Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas con las que me siento cómodo:
 
-* **Lenguajes:** JavaScript, Python y C#
-* **Frameworks/Librerías:** React, Astro, Next.js y .NET
-* **Mobile:** React Native
-* **Bases de Datos:** PostgreSQL, MongoDB
-* **Cloud:** AWS (EC2, S3), Azure (Azure Functions, Blob Storage)
-* **Otras Herramientas:** Git, Docker, Kubernetes
+| Categoría | Herramientas/Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | JavaScript, Python, C# |
+| **Frameworks/Librerías** | React, Astro, Next.js, .NET |
+| **Mobile** | React Native |
+| **Bases de Datos** | PostgreSQL, MongoDB |
+| **DevOps/Cloud** | Git, Docker, Kubernetes, AWS (EC2, S3), Azure (Azure Functions, Blob Storage) |
+
+---
 
 #### 🏅 Certificaciones
 
@@ -48,11 +59,11 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas con
 
 #### 📬 ¡Hablemos!
 
-Siempre estoy abierto a conectar con otros desarrolladores, entusiastas del cloud y personas apasionadas por la tecnología. No dudes en contactarme a través de:
+Siempre estoy abierto a conectar con otros desarrolladores, entusiastas de DevOps y personas apasionadas por la tecnología. No dudes en contactarme a través de:
 
-* (829)854-4185
-* ffrederf3@gmail.com
-* www.linkedin.com/in/frederick-tejeda
+* 📞 **Teléfono:** (829)854-4185
+* 📧 **Correo:** ffrederf3@gmail.com
+* 🔗 **LinkedIn:** [www.linkedin.com/in/frederick-tejeda](www.linkedin.com/in/frederick-tejeda)
 
 ---
 
