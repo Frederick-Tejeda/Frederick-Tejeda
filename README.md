@@ -8,8 +8,8 @@ Mi viaje en el mundo del desarrollo me ha llevado a trabajar con tecnologías co
 | :--- | :--- |
 | **Frontend** | React, Next.js, Astro |
 | **Backend** | Node.js, Python (Django/Flask), .NET/C# |
-| **Mobile** | React Native, Flutter |
-| **Bases de Datos** | MongoDB, PostgreSQL, MySQL, SQL Server |
+| **Mobile** | React Native |
+| **Bases de Datos** | MongoDB, PostgreSQL, MySQL |
 
 ---
 
